@@ -4,4 +4,4 @@ h1 { font-size: 1.8rem; margin: 0 0 .5rem; }
 h2 { font-size: 1.15rem; margin: 1.8rem 0 .4rem; }
 a { color: #0b57d0; }
 hr { border: 0; border-top: 1px solid #ddd; margin: 2.5rem 0; }
-.yt img { display:block; height:48px; width:auto; }
+.yt img { display:block; width:320px; height:auto; }
